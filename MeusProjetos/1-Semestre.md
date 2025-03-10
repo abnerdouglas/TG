@@ -1,5 +1,3 @@
-## Meus Projetos
-
 ### Primeiro Semestre (2023-1)
 
 O projeto desenvolvido no primerio semestre do curso de ADS teve como empresa parceira a propria fatec. Os requisitos foram apresentandos pelo Professor Egydio, que assumiu o papel de cliente final.
@@ -22,13 +20,25 @@ As seguintes tecnologias foram utilizadas neste projeto:
 - AWS: Plataforma de serviços em nuvem para hospedagem e recursos escaláveis.
 
 #### Contribuições Pessoais
-  Neste projeto atuei como Product Owner (PO) e fui o responsável por representar a equipe nos momentos em que era necessário contactar o cliente para tirar dúvidas, apresentar o andamento do projeto e realizar validações. Porém, também participei do desenvolvimento de algumas funcionalides do sistema web, como a criação da navbar. Outra funcionalidade interessante que realizei foi a conversão de todo o conteúdo do sistema web em audio books, disponíveis em um podcast no Spotify, de forma a aumentar a acessibilidade de nosso conteúdo para pessoas portadoras de deficiencias, ou para aqueles que preferem ouvir podcasts enquanto fazem outra tarefa principal, para economizar tempo. [Scrum-Academy-Audios](https://open.spotify.com/show/7H1Awvjl7wfpRcUEauZsbg?.si=a9f18406bca94fe3)
+  Neste projeto, atuei como **Product Owner (PO)**, sendo o principal responsável por representar a equipe em reuniões com o cliente (professor Egydio). Minhas responsabilidades incluíram esclarecer dúvidas, apresentar o progresso do projeto e conduzir validações das entregas.  
+
+Além da atuação como PO, também contribuí no desenvolvimento do sistema web, criando a **navbar** e colaborando em outras funcionalidades. Um dos principais destaques da minha contribuição foi a conversão de todo o conteúdo do sistema em **audiobooks**, disponibilizados em um podcast no Spotify. Essa iniciativa teve como objetivo ampliar a acessibilidade do projeto, atendendo pessoas com deficiência e também usuários que preferem consumir conteúdo em áudio durante outras atividades, otimizando seu tempo. [Scrum-Academy-Audios](https://open.spotify.com/show/7H1Awvjl7wfpRcUEauZsbg?.si=a9f18406bca94fe3)
 
 #### Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
+
 - AWS - Uso com autonomia
 - Flask - Uso com autonomia
 - Bootstrap - Uso com ajuda
 - Git - Uso com Autonomia
 
 #### Soft Skills
+- Comunicação: Atuei diretamente na comunicação com o cliente (professor Egydio) para esclarecer dúvidas, apresentar o andamento do projeto e validar funcionalidades. Essa habilidade foi essencial para garantir que o produto final atendesse às expectativas.
+
+- Trabalho em Equipe: Colaborei ativamente com minha equipe no desenvolvimento de funcionalidades, incluindo a criação da navbar e a estruturação dos conteúdos para os audiobooks.
+
+- Empatia: Ao criar os audiobooks para o Spotify, busquei tornar o conteúdo mais acessível para pessoas com deficiência e também para aqueles que preferem consumir informações em formato de áudio.
+
+- Resolução de Problemas: Durante o desenvolvimento, identifiquei e propus soluções para desafios relacionados à usabilidade do sistema e adaptação do conteúdo para formatos acessíveis.
+
+- Gestão de Tempo: Como Product Owner, gerenciei prazos e prioridades para assegurar que as entregas fossem realizadas dentro do cronograma estipulado.
