@@ -1,6 +1,6 @@
 ### Primeiro Semestre (2023-1)
 
-O projeto desenvolvido no primerio semestre do curso de ADS teve como empresa parceira a propria fatec. Os requisitos foram apresentandos pelo Professor Egydio, que assumiu o papel de cliente final.
+O projeto desenvolvido no primerio semestre do curso de ADS teve como empresa parceira a própria fatec. Os requisitos foram apresentandos pelo Professor Antonio Egydio, que assumiu o papel de cliente final.
 
 O problema apresentado consiste na dificuldade dos alunos do primeiro semestre na compreensão da metodologia scrum, desde as ferramentas básicas até dicas de como aprimorar suas habilidades pessoais no dia a dia do trabalho ou nos projetos da API.
 
