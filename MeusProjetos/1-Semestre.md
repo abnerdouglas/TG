@@ -10,14 +10,14 @@ Como solução, minha equipe desenvolveu um sistema web chamado Scrum Academy, u
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas neste projeto:
-- Figma: Ferramenta online para design e prototipação de interfaces de usuário.
-- Canva: Plataforma para criação de designs gráficos, como imagens e logotipos.
-- Trello: Ferramenta de gerenciamento de tarefas baseada em quadros Kanban.
-- HTML: Linguagem de marcação para estruturar conteúdo de páginas web.
-- CSS: Linguagem de estilos para definir a aparência visual de páginas web.
-- Bootstrap: Biblioteca de CSS e JavaScript para criação de interfaces responsivas.
-- Flask: Microframework em Python para desenvolvimento de aplicações web.
-- AWS: Plataforma de serviços em nuvem para hospedagem e recursos escaláveis.
+- **Figma**: Ferramenta online para design e prototipação de interfaces de usuário.
+- **Canva**: Plataforma para criação de designs gráficos, como imagens e logotipos.
+- **Trello**: Ferramenta de gerenciamento de tarefas baseada em quadros Kanban.
+- **HTML**: Linguagem de marcação para estruturar conteúdo de páginas web.
+- **CSS**: Linguagem de estilos para definir a aparência visual de páginas web.
+- **Bootstrap**: Biblioteca de CSS e JavaScript para criação de interfaces responsivas.
+- **Flask**: Microframework em Python para desenvolvimento de aplicações web.
+- **AWS**: Plataforma de serviços em nuvem para hospedagem e recursos escaláveis.
 
 #### Contribuições Pessoais
   Neste projeto, atuei como **Product Owner (PO)**, sendo o principal responsável por representar a equipe em reuniões com o cliente (professor Egydio). Minhas responsabilidades incluíram esclarecer dúvidas, apresentar o progresso do projeto e conduzir validações das entregas.  
@@ -27,18 +27,18 @@ Além da atuação como PO, também contribuí no desenvolvimento do sistema web
 #### Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
 
-- AWS - Uso com autonomia
-- Flask - Uso com autonomia
-- Bootstrap - Uso com ajuda
-- Git - Uso com Autonomia
+- **AWS** - Uso com ajuda
+- **Flask** - Uso com ajuda
+- **Bootstrap** - Uso com ajuda
+- **Git** - Uso com ajuda
 
 #### Soft Skills
-- Comunicação: Atuei diretamente na comunicação com o cliente (professor Egydio) para esclarecer dúvidas, apresentar o andamento do projeto e validar funcionalidades. Essa habilidade foi essencial para garantir que o produto final atendesse às expectativas.
+- **Comunicação**: Atuei diretamente na comunicação com o cliente (professor Egydio) para esclarecer dúvidas, apresentar o andamento do projeto e validar funcionalidades. Essa habilidade foi essencial para garantir que o produto final atendesse às expectativas.
 
-- Trabalho em Equipe: Colaborei ativamente com minha equipe no desenvolvimento de funcionalidades, incluindo a criação da navbar e a estruturação dos conteúdos para os audiobooks.
+- **Trabalho em Equipe**: Colaborei ativamente com minha equipe no desenvolvimento de funcionalidades, incluindo a criação da navbar e a estruturação dos conteúdos para os audiobooks.
 
-- Empatia: Ao criar os audiobooks para o Spotify, busquei tornar o conteúdo mais acessível para pessoas com deficiência e também para aqueles que preferem consumir informações em formato de áudio.
+- **Empatia**: Ao criar os audiobooks para o Spotify, busquei tornar o conteúdo mais acessível para pessoas com deficiência e também para aqueles que preferem consumir informações em formato de áudio.
 
-- Resolução de Problemas: Durante o desenvolvimento, identifiquei e propus soluções para desafios relacionados à usabilidade do sistema e adaptação do conteúdo para formatos acessíveis.
+- **Resolução de Problemas**: Durante o desenvolvimento, identifiquei e propus soluções para desafios relacionados à usabilidade do sistema e adaptação do conteúdo para formatos acessíveis.
 
-- Gestão de Tempo: Como Product Owner, gerenciei prazos e prioridades para assegurar que as entregas fossem realizadas dentro do cronograma estipulado.
+- **Gestão de Tempo**: Como Product Owner, gerenciei prazos e prioridades para assegurar que as entregas fossem realizadas dentro do cronograma estipulado.
