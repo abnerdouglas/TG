@@ -27,9 +27,14 @@ As seguintes tecnologias foram utilizadas neste projeto:
 
 #### Contribuições Pessoais
 
-Neste projeto, atuei como integrante do **Dev Team**, sendo responsável pela implementação da autenticação via token JWT no frontend, garantindo a proteção de todas as rotas através do sistema de login. Ao final do desenvolvimento, conduzi a pesquisa por opções de hospedagens gratuitas para o backend e frontend, configurei a comunicação entre ambos e realizei o deploy na nuvem, tornando o sistema acessível ao público. Apesar das limitações das plataformas gratuitas, foi gratificante disponibilizar o sistema para acesso externo, especialmente durante a apresentação na feira de soluções.
+Neste projeto, atuei como integrante do **Dev Team**, sendo responsável pela implementação da autenticação via token JWT no frontend, garantindo a proteção de todas as rotas através do sistema de login. 
+
+Além disso, desenvolvi a feature de envio de uma senha aleatória para o primeiro cadastro de um gestor, o qual foi definido como maior nível de acesso do sistema, tendo acesso a todas as funcionalides. Basicamente, o usuário precisa definir um nome e um e-mail, e depois uma senha aleatória será enviada para o e-mail informado, a qual deve ser usada para o primeiro acesso do novo gestor ao sistema.
+
+Ao final do desenvolvimento, conduzi a pesquisa por opções de hospedagens gratuitas para o backend e frontend, configurei a comunicação entre ambos e realizei o deploy na nuvem, tornando o sistema acessível ao público. Apesar das limitações das plataformas gratuitas, foi gratificante disponibilizar o sistema para acesso externo, especialmente durante a apresentação na feira de soluções.
 
 #### Hard Skills
+
 Exercitei as seguintes hard skills durante esse projeto:
 - **Typescript** - Uso com autonomia
 - **React** - Uso com ajuda
@@ -43,6 +48,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Git Pull Requests** - Uso com autonoia
 
 #### Soft Skills
+
 - **Trabalho em equipe**: Colaborei ativamente com o **Dev Team**, contribuindo para o sucesso do projeto por meio de uma atuação alinhada e cooperativa.  
 - **Resolução de problemas**: Realizei pesquisas e identifiquei as melhores soluções para hospedagem gratuita, garantindo a integração eficiente entre backend e frontend.  
 - **Proatividade**: Tomei a iniciativa na configuração das hospedagens e na realização do deploy na nuvem, assegurando a disponibilidade do sistema para acesso externo.  
@@ -54,5 +60,5 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 
 <div align="center">
-<img src="./Imagens/banner-sales-dash.png" alt="Parrot Logo" />
+<img src="./Imagens/banner-sales-dash.png" alt="Sales Dash Logo" />
 </div>
