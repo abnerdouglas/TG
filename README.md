@@ -3,7 +3,7 @@ Repositório para a disciplina de Trabalho de Graduação 1 - Fatec SJC
 
 ## Introdução
 
-![Picture](./MeusProjetos/Imagens/me.jpg)
+<img src="./MeusProjetos/Imagens/me.jpg" alt="Foto" width="500"/>
 
 Meu nome é Abner Douglas, tenho 21 anos e iniciei meus estudos na área de tecnologia em 2023, ao ingressar no curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos. Quando comecei, não possuía conhecimentos prévios em programação, mas sempre fui uma pessoa curiosa, persistente na resolução de problemas e disciplinada para alcançar meus objetivos profissionais.
 
