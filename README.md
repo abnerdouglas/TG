@@ -59,7 +59,8 @@ contato:
 
 | Ícone | Nome |
 |:--:|:--|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> | **AWS** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/> | **AWS** |
+
 
 ---
 
