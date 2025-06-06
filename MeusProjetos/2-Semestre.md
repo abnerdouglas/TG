@@ -8,6 +8,8 @@ Como solução, minha equipe desenvolveu o ParrotAI, um chatbot avançado constr
 
 - [GIT](https://github.com/C0demain/ParrotAI)
 
+---
+
 #### Tecnologias Utilizadas
 
 As seguintes tecnologias foram utilizadas neste projeto:
@@ -20,9 +22,13 @@ As seguintes tecnologias foram utilizadas neste projeto:
 - **Gradle**: Ferramenta para gerenciamento das dependencias;
 - **Trello**: Ferramenta de gerenciamento de tarefas baseada em quadros Kanban.
 
+---
+
 #### Contribuições Pessoais
 
   Neste projeto fiz parte do **Dev Team**, sendo responsável por participar do desenvolvimento da interface (GUI) de upload dos documentos, os quais serão lidos e interpretados pelo chatbot. Além disso, contribui com o melhoramento das respostas da IA da biblioteca langchain estudando seu funcionamento e integração com ferramentas como Hugging Face.
+
+---
 
 #### Hard Skills
 
@@ -31,6 +37,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Java Swing** - Uso com autonomia
 - **Eclipse** - Uso com ajuda
 - **MySQL** - Uso com ajuda
+
+---
 
 #### Soft Skills
 
@@ -41,6 +49,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Proatividade**: Diante das dificuldades com o Java e o uso da biblioteca LangChain, tomei a iniciativa de aprofundar meus estudos e explorar documentações e exemplos práticos. Também pesquisei integrações com ferramentas como Hugging Face para aprimorar a IA do chatbot.
 
 - **Aprendizado Contínuo**: Apesar das dificuldades iniciais, busquei constantemente novos conhecimentos sobre Java e orientação a objetos, o que me permitiu evoluir significativamente ao longo do projeto.
+
+---
 
 <div align="center">
 <img src="./Imagens/ParrotLogo.png" alt="Parrot Logo" width="700"/>

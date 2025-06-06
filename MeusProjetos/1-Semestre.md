@@ -8,6 +8,8 @@ Como solução, minha equipe desenvolveu um sistema web chamado Scrum Academy, u
 
 - [GIT](https://github.com/ColossusAPI/ScrumAcademy?tab=readme-ov-file)
 
+---
+
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas neste projeto:
 - **Figma**: Ferramenta online para design e prototipação de interfaces de usuário.
@@ -19,10 +21,14 @@ As seguintes tecnologias foram utilizadas neste projeto:
 - **Flask**: Microframework em Python para desenvolvimento de aplicações web.
 - **AWS**: Plataforma de serviços em nuvem para hospedagem e recursos escaláveis.
 
+---
+
 #### Contribuições Pessoais
   Neste projeto, atuei como **Product Owner (PO)**, sendo o principal responsável por representar a equipe em reuniões com o cliente (professor Egydio). Minhas responsabilidades incluíram esclarecer dúvidas, apresentar o progresso do projeto e conduzir validações das entregas.  
 
 Além da atuação como PO, também contribuí no desenvolvimento do sistema web, criando a **navbar** e colaborando em outras funcionalidades. Um dos principais destaques da minha contribuição foi a conversão de todo o conteúdo do sistema em **audiobooks**, disponibilizados em um podcast no Spotify. Essa iniciativa teve como objetivo ampliar a acessibilidade do projeto, atendendo pessoas com deficiência e também usuários que preferem consumir conteúdo em áudio durante outras atividades, otimizando seu tempo. [Scrum-Academy-Audios](https://open.spotify.com/show/7H1Awvjl7wfpRcUEauZsbg?.si=a9f18406bca94fe3)
+
+---
 
 #### Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
@@ -31,6 +37,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Flask** - Uso com ajuda
 - **Bootstrap** - Uso com ajuda
 - **Git** - Uso com ajuda
+
+---
 
 #### Soft Skills
 - **Comunicação**: Atuei diretamente na comunicação com o cliente (professor Egydio) para esclarecer dúvidas, apresentar o andamento do projeto e validar funcionalidades. Essa habilidade foi essencial para garantir que o produto final atendesse às expectativas.

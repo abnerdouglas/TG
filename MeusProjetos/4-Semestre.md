@@ -18,6 +18,8 @@ Essa solução foi desenvolvida para atender às necessidades específicas da JJ
 
 - [GIT](https://github.com/C0demain/logflow)
 
+---
+
 #### Tecnologias Utilizadas
 
 As seguintes tecnologias foram utilizadas neste projeto:
@@ -33,6 +35,8 @@ As seguintes tecnologias foram utilizadas neste projeto:
 - **PostgreSQL**: Banco de dados relacional robusto e extensível.
 - **AWS**: Plataforma de serviços em nuvem escalável da Amazon.
 
+---
+
 #### Contribuições Pessoais
 
 No projeto, atuei como membro do **Dev Team**, sendo responsável pela **containerização completa** utilizando **Docker** desde o início. Desenvolvi um Dockerfile para containerizar a API e configurei um docker-compose para orquestrar os contêineres do **banco de dados**, **frontend** e do serviço de gerenciamento de banco (**pgAdmin**).  
@@ -42,6 +46,8 @@ Essa abordagem proporcionou um ambiente de desenvolvimento **distribuído e cons
 Também liderei o processo de **deploy na AWS**, garantindo uma transição eficiente do ambiente de desenvolvimento para produção.  
 
 Além disso, implementei um **chat básico** para facilitar a comunicação interna entre os usuários da aplicação.
+
+---
 
 #### Hard Skills
 
@@ -55,6 +61,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Git Pull Requests** - Uso com autonoia
 - **Typescript** - Uso com autonomia
 
+---
+
 #### Soft Skills
 
 - **Gerenciamento de Tempo**: Organizei minhas atividades de forma eficiente para cumprir prazos estabelecidos, garantindo a entrega de funcionalidades essenciais, como a containerização com Docker e o deploy na AWS, dentro do cronograma do projeto.  
@@ -64,6 +72,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Comunicação Eficiente**: Mantive uma comunicação clara com o cliente e com a equipe, alinhando expectativas e garantindo que as necessidades fossem corretamente interpretadas e implementadas.  
 - **Adaptabilidade**: Adaptei-me rapidamente às mudanças nos requisitos do projeto, ajustando as soluções técnicas para atender às novas demandas.  
 - **Organização**: Utilizei ferramentas como **Trello** para planejar e acompanhar tarefas, mantendo um fluxo de trabalho organizado e priorizando entregas críticas.
+
+---
 
 <div align="center">
 <img src="./Imagens/banner-logflow.png" alt="LogFlow Logo"/>

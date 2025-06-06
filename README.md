@@ -92,3 +92,4 @@ contato:
 |           2°           |     2023      |         2°         |  [Readme](./MeusProjetos/2-Semestre.md)
 |           3°           |     2024      |         1°         |  [Readme](./MeusProjetos/3-Semestre.md)
 |           4°           |     2024      |         2°         |  [Readme](./MeusProjetos/4-Semestre.md)
+|           5°           |     2025      |         1°         |  [Readme](./MeusProjetos/5-Semestre.md)

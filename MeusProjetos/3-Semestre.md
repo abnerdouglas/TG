@@ -8,6 +8,8 @@ Como solução, minha equipe desenvolveu o Sales Dash, um sistema de dashboard q
 
 - [GIT](https://github.com/C0demain/sales-dash)
 
+---
+
 #### Tecnologias Utilizadas
 
 As seguintes tecnologias foram utilizadas neste projeto:
@@ -25,6 +27,8 @@ As seguintes tecnologias foram utilizadas neste projeto:
 - **Vercel**: Plataforma de hospedagem para aplicações frontend com deploy automatizado.  
 - **Render**: Plataforma de hospedagem para aplicações backend com integração contínua.
 
+---
+
 #### Contribuições Pessoais
 
 Neste projeto, atuei como integrante do **Dev Team**, sendo responsável pela implementação da autenticação via token JWT no frontend, garantindo a proteção de todas as rotas através do sistema de login. 
@@ -32,6 +36,8 @@ Neste projeto, atuei como integrante do **Dev Team**, sendo responsável pela im
 Além disso, desenvolvi a feature de envio de uma senha aleatória para o primeiro cadastro de um gestor, o qual foi definido como maior nível de acesso do sistema, tendo acesso a todas as funcionalides. Basicamente, o usuário precisa definir um nome e um e-mail, e depois uma senha aleatória será enviada para o e-mail informado, a qual deve ser usada para o primeiro acesso do novo gestor ao sistema.
 
 Ao final do desenvolvimento, conduzi a pesquisa por opções de hospedagens gratuitas para o backend e frontend, configurei a comunicação entre ambos e realizei o deploy na nuvem, tornando o sistema acessível ao público. Apesar das limitações das plataformas gratuitas, foi gratificante disponibilizar o sistema para acesso externo, especialmente durante a apresentação na feira de soluções.
+
+---
 
 #### Hard Skills
 
@@ -47,6 +53,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Git Submodules** - Uso com autonomia
 - **Git Pull Requests** - Uso com autonoia
 
+---
+
 #### Soft Skills
 
 - **Trabalho em equipe**: Colaborei ativamente com o **Dev Team**, contribuindo para o sucesso do projeto por meio de uma atuação alinhada e cooperativa.  
@@ -58,6 +66,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 - **Atenção aos detalhes**: Fui criterioso na implementação da autenticação, segurança das rotas e responsividade das páginas, assegurando uma experiência consistente para o usuário.  
 - **Organização**: Utilizei o **Trello** para planejar e acompanhar o progresso das tarefas, promovendo uma gestão eficiente das demandas e garantindo a entrega de cada etapa do projeto.
 
+---
 
 <div align="center">
 <img src="./Imagens/banner-sales-dash.png" alt="Sales Dash Logo" />
