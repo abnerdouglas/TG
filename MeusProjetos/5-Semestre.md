@@ -67,12 +67,6 @@ Além das atividades de PO, também **contribuí tecnicamente** no desenvolvimen
 
 #### Soft Skills
 
-Claro! Aqui está a seção **Soft Skills** reformulada com base em situações reais que você mencionou:
-
----
-
-#### Soft Skills
-
 * **Comunicação com o Cliente**: Mantive contato frequente com o cliente da GSW para alinhar expectativas, esclarecer dúvidas levantadas pela equipe e validar funcionalidades planejadas, garantindo que o sistema atendesse às regras de negócio esperadas.
 
 * **Liderança de Produto (PO)**: Assumi o papel de ponte entre o cliente e o time, organizando o backlog no Trello e priorizando tarefas de acordo com o valor percebido pelo cliente e os prazos definidos para cada sprint.
