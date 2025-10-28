@@ -44,6 +44,10 @@ contato:
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> | **React** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> | **React Native** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/> | **Next.js** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | **Python** |
+| - | **Hugging Face** |
+| - | **LangChain** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30"/> | **FastAPI** |
 
 ---
 
@@ -55,7 +59,7 @@ contato:
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> | **MySQL** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> | **PostgreSQL** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> | **MongoDB** |
-
+| - | **ChromaDB** |
 
 ---
 
@@ -97,3 +101,4 @@ contato:
 |           3°           |     2024      |         1°         |  [Readme](./MeusProjetos/3-Semestre.md)
 |           4°           |     2024      |         2°         |  [Readme](./MeusProjetos/4-Semestre.md)
 |           5°           |     2025      |         1°         |  [Readme](./MeusProjetos/5-Semestre.md)
+|           6°           |     2025      |         2°         |  [Readme](./MeusProjetos/6-Semestre.md)           
