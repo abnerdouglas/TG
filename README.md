@@ -1,5 +1,5 @@
-# TG1
-Repositório para a disciplina de Trabalho de Graduação 1 - Fatec SJC
+# Trabalho de Graduação
+Repositório para a disciplina de Trabalho de Graduação 1 e 2 - Fatec SJC
 
 ## Introdução
 
