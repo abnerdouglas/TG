@@ -22,7 +22,7 @@ As tecnologias e ferramentas aplicadas durante o desenvolvimento do **NutriXpert
 * **LangChain** – Framework que integra modelos de linguagem (LLMs) com fluxos de dados e armazenamento vetorial.
 * **PDFPlumber** - Ferramenta usada para extração de texto de documentos PDF, preservando estrutura e legibilidade do conteúdo original.
 * **Pandas** - Biblioteca utilizada para leitura e tratamento dos dados da tabela taco em formato Excel.
-* **Hugging Face Transformers** - : Gera embeddings semânticos dos chunks de texto, permitindo busca vetorial por similaridade durante a recuperação de contexto.
+* **Hugging Face Transformers** - Gera embeddings semânticos dos chunks de texto, permitindo busca vetorial por similaridade durante a recuperação de contexto.
 * **Gemini Flash Model** – Utilização do modelo 'gemini-2.0-flash' para inferência dos agentes;
 * **Vue.js / Nuxt 3** – Interface front-end para interação com o agente e visualização dos resultados;
 * **TailwindCSS** – Estilização e responsividade do front-end.
@@ -60,4 +60,4 @@ Atuei principalmente na **engenharia dos agentes e na arquitetura de orquestraç
 * **Documentação e Clareza Técnica**: Mantive descrições completas sobre os prompts, fluxos de decisão e funções dos subagentes, facilitando a manutenção e o entendimento do time. Exemplo: criação de workflows e READMES.md bem descritivos. 
 * **Resolução de Problemas**: Enfrentei desafios relacionados ao balanceamento de contexto e otimização de memória dos modelos de linguagem, aplicando estratégias de chunking e compressão vetorial.
 * **Pesquisa Aplicada**: Investiguei técnicas modernas de RAG e ajuste de prompts baseadas em publicações recentes para maximizar a precisão das respostas geradas.
-* **Colaboração Multidisciplinar**: Trabalhei junto a colegas das áreas de IA e Front-end, garantindo integração segura entre backend spirng boot e as interfaces de usuário.
+* **Colaboração Multidisciplinar**: Trabalhei junto a colegas das áreas de IA e Front-end, garantindo integração segura entre backend spring boot e as interfaces de usuário (Vue.js).
