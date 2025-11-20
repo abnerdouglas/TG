@@ -2,7 +2,7 @@
 
 No quarto semestre do curso de ADS, desenvolvemos um projeto em parceria com a **JJM LOG**, empresa do setor de logística. Os requisitos foram apresentados por **Matheus**, representante da empresa e cliente final do projeto.  
 
-O principal desafio identificado foi a **ausência de um sistema integrado** para gerenciar processos de trabalho, facilitar a colaboração entre equipes e realizar auditorias de atividades. Por se tratar de uma empresa de logística, o sistema precisou considerar particularidades específicas do setor, diferenciando-se significativamente do projeto desenvolvido no terceiro semestre, que foi voltado para uma empresa de tecnologia.  
+Os processos de trabalho da empresa estavam dispersos entre diferentes equipes, tornando difícil acompanhar responsabilidades, auditar atividades e garantir que todas as etapas fossem executadas de maneira consistente. Como a operação logística possui rotinas específicas e grande volume de interações entre setores, surgiram problemas de comunicação, retrabalho e falta de rastreabilidade das ações, o que impactava diretamente a eficiência e a confiabilidade das operações.
 
 Como solução, minha equipe criou o **Logflow**, um sistema web completo, projetado para otimizar processos de trabalho, promover a colaboração entre equipes e garantir a auditoria eficiente das atividades. O sistema oferece funcionalidades como:  
 
@@ -65,13 +65,15 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-- **Gerenciamento de Tempo**: Organizei minhas atividades de forma eficiente para cumprir prazos estabelecidos, garantindo a entrega de funcionalidades essenciais, como a containerização com Docker e o deploy na AWS, dentro do cronograma do projeto.  
-- **Entendimento de Sistemas Complexos**: Este projeto exigiu uma análise profunda dos fluxos de trabalho da empresa parceira, compreendendo cada etapa e particularidade dos processos logísticos. Dediquei tempo para mapear e entender essas necessidades, o que foi essencial para o desenvolvimento de um sistema alinhado às expectativas do cliente.  
-- **Resolução de Problemas**: Enfrentei e solucionei diversos desafios técnicos, como a configuração de ambientes de desenvolvimento distribuídos.  
-- **Colaboração em Equipe**: Trabalhei em constante colaboração com o time, garantindo que as soluções fossem integradas e funcionais, além de apoiar colegas em questões técnicas relacionadas a Docker e AWS.  
-- **Comunicação Eficiente**: Mantive uma comunicação clara com o cliente e com a equipe, alinhando expectativas e garantindo que as necessidades fossem corretamente interpretadas e implementadas.  
-- **Adaptabilidade**: Adaptei-me rapidamente às mudanças nos requisitos do projeto, ajustando as soluções técnicas para atender às novas demandas.  
-- **Organização**: Utilizei ferramentas como **Trello** para planejar e acompanhar tarefas, mantendo um fluxo de trabalho organizado e priorizando entregas críticas.
+- **Gestão de Tempo Orientada ao Pipeline DevOps**: Estruturei minhas tarefas considerando dependências entre backend, frontend e infraestrutura. Planejei entregas críticas — como containerização com Docker, configuração de docker-compose e deploy na AWS — garantindo que estivessem prontas antes das integrações de equipe.
+
+- **Compreensão de Fluxos Logísticos Reais**: Analisei detalhadamente os processos operacionais da JJM LOG, mapeando etapas, dependências e pontos de comunicação entre setores para garantir que a modelagem técnica refletisse corretamente a complexidade das operações logísticas.
+
+- **Resolução de Problemas em Infraestrutura Distribuída**: Enfrentei e solucionei desafios relacionados à orquestração de múltiplos contêineres, compatibilidade de imagens, portas e redes internas, garantindo que os microsserviços funcionassem de forma integrada no ambiente de desenvolvimento e produção.
+
+- **Suporte Técnico Interno (Docker e AWS)**: Auxiliei outros membros da equipe a compreender e operar contêineres, solucionar erros de build e configurar variáveis de ambiente, promovendo um ambiente de desenvolvimento mais uniforme e reduzindo o tempo gasto em dificuldades individuais.
+
+- **Adaptabilidade a Mudanças de Arquitetura**: Ajustei rapidamente a estrutura do docker-compose, configuração da API ou ambiente AWS conforme surgiam novos requisitos ou descobertas durante o desenvolvimento, demonstrando flexibilidade e precisão técnica.
 
 ---
 

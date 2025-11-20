@@ -2,6 +2,8 @@
 
 No quinto semestre do curso de Análise e Desenvolvimento de Sistemas da Fatec São José dos Campos, desenvolvemos um projeto em parceria com a **GSW Software**, uma empresa referência em soluções corporativas. O projeto, denominado **RefundMe**, foi proposto como parte de um desafio prático da empresa para os alunos.
 
+No ambiente corporativo da GSW, identificou-se uma dificuldade crescente no controle e acompanhamento das despesas realizadas pelos colaboradores. Os pedidos de reembolso eram gerenciados por diferentes meios e formatos, o que gerava inconsistências, atrasos na análise e falta de transparência para os funcionários. Além disso, os gestores tinham dificuldade para aplicar regras de aprovação de forma padronizada e para manter uma visão clara do histórico de solicitações, o que impactava a agilidade e a confiabilidade do processo de reembolso.
+
 A proposta consistiu em desenvolver um **sistema completo de reembolso corporativo**, permitindo que funcionários registrem suas solicitações de reembolso de despesas, anexem comprovantes e acompanhem o status de aprovação. Ao mesmo tempo, gestores utilizam um **painel administrativo (backoffice)** exclusivo para aprovar ou rejeitar essas solicitações com base em regras previamente definidas, como limites de valor por projeto.
 
 O sistema é composto por três frentes:
@@ -67,17 +69,17 @@ Além das atividades de PO, também **contribuí tecnicamente** no desenvolvimen
 
 #### Soft Skills
 
-* **Comunicação com o Cliente**: Mantive contato frequente com o cliente da GSW para alinhar expectativas, esclarecer dúvidas levantadas pela equipe e validar funcionalidades planejadas, garantindo que o sistema atendesse às regras de negócio esperadas.
+- **Comunicação Técnica Orientada ao Cliente**: Mantive contato contínuo via Slack com o representante da GSW para esclarecer regras de negócio, validar fluxos de uso e confirmar detalhes importantes, transformando necessidades corporativas complexas em orientações claras e acionáveis para a equipe técnica.
 
-* **Liderança de Produto (PO)**: Assumi o papel de ponte entre o cliente e o time, organizando o backlog no Trello e priorizando tarefas de acordo com o valor percebido pelo cliente e os prazos definidos para cada sprint.
+- **Mediação Estratégica entre Cliente e Equipe**: Atuei como ponto central de alinhamento, traduzindo requisitos muitas vezes abstratos em funcionalidades concretas, registrando tarefas no Trello e garantindo que nada fosse perdido ou interpretado de forma incorreta — essencial para manter a coesão entre visão do cliente e execução da equipe.
 
-* **Resolução de Problemas**: Na Sprint 1, enfrentamos uma falha ao tentar apresentar o projeto devido a problemas com o emulador Expo. Após o ocorrido, promovemos um estudo técnico mais aprofundado e realizamos testes prévios antes das apresentações seguintes, garantindo maior confiabilidade nas demonstrações.
+- **Liderança de Produto com Foco em Prioridades de Negócio**: Realizei a organização e priorização do backlog considerando impacto real para o cliente, prazos das sprints e dependências técnicas, orientando o time sobre o que era mais crítico para cada etapa do desenvolvimento.
 
-* **Trabalho em Equipe**: Apoiei os colegas no entendimento dos fluxos propostos e levei feedbacks técnicos e dúvidas para o cliente, promovendo um ambiente colaborativo e com decisões bem fundamentadas.
+- **Resolução Rápida de Problemas Críticos de Demonstração**: Após a falha inicial com o emulador Expo na Sprint 1, conduzi um processo de diagnóstico e preparo prévio para evitar novas interrupções, definindo boas práticas de testes antes de demos futuras — garantindo entregas mais confiáveis e profissionais.
 
-* **Organização**: Mesmo atuando como PO, mantive controle pessoal das tarefas e prazos usando o Trello, conciliando as entregas do projeto com o estágio e outras responsabilidades acadêmicas.
+- **Suporte Técnico Direcionado ao Time**: Além da atuação como PO, ofereci apoio técnico em pontos sensíveis, como regras de autenticação, diferenciação de perfis (admin vs. user) e comportamento de rotas protegidas, evitando retrabalho e ajudando o time a implementar fluxos condizentes com o modelo de negócios.
 
-* **Adaptabilidade e Maturidade Profissional**: Conciliar o papel de PO com a rotina intensa do estágio foi um desafio que exigiu planejamento, priorização de tarefas e flexibilidade para lidar com mudanças de escopo e imprevistos durante o desenvolvimento.
+- **Alinhamento de Fluxos Operacionais Complexos**: Trabalhei diretamente na modelagem e validação dos fluxos de aprovação, limites por projeto, interação entre app e backoffice e regras de acesso, garantindo que a lógica representasse fielmente o processo corporativo da GSW.
 
 
 ---

@@ -42,13 +42,17 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-- **Resiliência**: Durante o desenvolvimento, enfrentei desafios relacionados ao domínio de Java e à aplicação de conceitos de orientação a objetos. No entanto, mantive o foco, buscando recursos de aprendizado, estudando exemplos e solicitando apoio da equipe. Essa persistência foi fundamental para superar as dificuldades e garantir a entrega das funcionalidades.
+- **Resolução Técnica de Problemas em NLP**: Enfrentei desafios diretamente ligados ao entendimento da biblioteca LangChain4j, especialmente na etapa de embedding e interpretação de arquivos PDF e DOCX. Analisei comportamentos inesperados da IA e ajustei parâmetros e prompts para melhorar a precisão das respostas extraídas dos currículos.
 
-- **Colaboração**: Trabalhei em conjunto com outros membros da equipe para entender melhor a integração da biblioteca LangChain com o Java, realizando sessões de estudo em grupo e discutindo soluções para melhorar as respostas do chatbot.
+- **Colaboração Técnica Focada**: Trabalhei lado a lado com colegas para integrar Java, LangChain4j e a camada de interface Swing. Participamos de sessões de depuração conjunta, identificando gargalos na leitura de arquivos e discutindo melhorias no fluxo de interação do chatbot.
 
-- **Proatividade**: Diante das dificuldades com o Java e o uso da biblioteca LangChain, tomei a iniciativa de aprofundar meus estudos e explorar documentações e exemplos práticos. Também pesquisei integrações com ferramentas como Hugging Face para aprimorar a IA do chatbot.
+- **Proatividade em Pesquisa de Ferramentas de IA**: Diante das limitações iniciais do projeto, busquei documentações, exemplos e alternativas na comunidade, explorando inclusive ferramentas como Hugging Face para melhorar o desempenho da leitura e interpretação de textos.
 
-- **Aprendizado Contínuo**: Apesar das dificuldades iniciais, busquei constantemente novos conhecimentos sobre Java e orientação a objetos, o que me permitiu evoluir significativamente ao longo do projeto.
+- **Aprendizado Contínuo Orientado a Necessidades do Projeto**: Evoluí minha compreensão de Java, orientação a objetos e integração com bibliotecas de IA à medida que surgiam desafios práticos. Esse aprendizado direcionado me permitiu contribuir mais efetivamente na integração técnica entre front-end (Swing) e back-end de NLP.
+
+- **Organização e Estruturação de Interfaces (GUI)**: Ao desenvolver a tela de upload, apliquei habilidades de planejamento visual e usabilidade, visando tornar o processo de envio e análise de arquivos mais intuitivo para o usuário final.
+
+- **Comunicação Técnica Interna**: Mantive alinhamento constante com o time, explicando descobertas sobre o comportamento do LangChain4j, compartilhando insights sobre embeddings e orientando decisões sobre como melhorar as respostas do chatbot.
 
 ---
 

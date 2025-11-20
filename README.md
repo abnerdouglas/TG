@@ -5,19 +5,24 @@ Repositório para a disciplina de Trabalho de Graduação 1 e 2 - Fatec SJC
 
 <img src="./MeusProjetos/Imagens/me.jpg" alt="Foto" width="500"/>
 
-Meu nome é Abner Douglas, tenho 21 anos e iniciei meus estudos na área de tecnologia em 2023, ao ingressar no curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos. Quando comecei, não possuía conhecimentos prévios em programação, mas sempre fui uma pessoa curiosa, persistente na resolução de problemas e disciplinada para alcançar meus objetivos profissionais.
+Meu nome é Abner Douglas Ribeiro Machado, tenho 21 anos e iniciei meus estudos na área de tecnologia em 2023, ao ingressar no curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos. Quando comecei, não possuía conhecimentos prévios em programação, mas sempre fui uma pessoa curiosa, persistente na resolução de problemas e disciplinada para alcançar meus objetivos profissionais.
+
+Antes de Ingressar na FATEC de São José dos Campos, realizei todo o período de Ensino Médio no Colégio Rezende e Rezende, em Jacareí-SP, durante 2019 a 2021. Basicamente, fui criado e moro até os dias de hoje em Jacareí, porém foi em São José que eu nasci e sempre tive as melhores oportunidades de ensino e trabalho.
 
 Durante esse período, uma figura fundamental para minha trajetória foi meu tio Abimael, um desenvolvedor de software com ampla experiência e conhecimento. Foi ele quem me recomendou a FATEC São José dos Campos, destacando a qualidade dos professores e as oportunidades que a instituição poderia me proporcionar no mercado de trabalho. Hoje, com base na minha breve experiência acadêmica e profissional, vejo que ele estava certo. Obrigado, tio!
 
 Iniciei minha trajetória profissional em outubro de 2024, quando eu estava no 4° semestre do curso, como estagiário na área de desenvolvimento de software na empresa Q4TI. Essa experiência tem sido extremamente enriquecedora, proporcionando aprendizado contínuo em ASP.NET, React, SQL Server e outras tecnologias do ecossistema Microsoft. No momento, estou atuando no desenvolvimento backend e frontend de um projeto para o Senac-SP.
 
-Um ponto que merece destaque é a importância do API (Aprendizagem por Projetos Integrados) da FATEC São José dos Campos na minha formação. Essa metodologia foi e tem sido essencial para me preparar para os desafios do estágio, permitindo-me aplicar os conhecimentos adquiridos em sala de aula de forma prática e eficiente.
+Um ponto que merece destaque é a importância do API (Aprendizagem por Projetos Integrados) da FATEC São José dos Campos na minha formação. Essa metodologia foi e tem sido essencial para me preparar para os desafios do estágio, permitindo-me aplicar os conhecimentos adquiridos em sala de aula de forma prática e eficiente. Essa metodologia permite o aluno aprender a aprender.
+
+Após completar um pouco mais de 1 ano trabalhando na Q4TI, pude acumular diversos aprendizados e ensinamentos, e um deles é que um bom desenvolvedor de software não deve dominar apenas a parte técnica, ele deve ser capaz de se comunicar com seus colegas de trabalho, de entender os requisitos do cliente, saber apresentar seu trabalho e problemas, e aprender a aprender. Em minha opinião, isso caracteriza um profissional raro no mercado.
 
 
 ## Contatos
 - [Github](https://github.com/abnerdouglas)
 - [Linkedin](https://www.linkedin.com/in/abnerdouglas)
-- [E-mail](abner.machado@fatec.sp.gov.br)
+- [E-mail FATEC](abner.machado@fatec.sp.gov.br)
+- [E-mail Pesoal](abner.rmachado@gmail.com)
 
 ## Meus Principais Conhecimentos
 

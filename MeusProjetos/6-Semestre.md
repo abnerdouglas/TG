@@ -1,6 +1,10 @@
 ### Sexto Semestre (2025-2)
 
-No sexto semestre do curso de **Análise e Desenvolvimento de Sistemas da Fatec São José dos Campos**, desenvolvemos um projeto em parceria com a **Xertica**, por meio do uso do **Google Agent Development Kit (ADK)** — um framework moderno voltado à criação de agentes de inteligência artificial. O projeto, denominado **NutriXpert**, teve como objetivo a criação de um **agente conversacional inteligente para nutrição**, capaz de oferecer orientações alimentares, cálculos metabólicos e planos personalizados com base em dados reais de composição nutricional.
+No sexto semestre do curso de **Análise e Desenvolvimento de Sistemas da Fatec São José dos Campos**, desenvolvemos um projeto em parceria com a **Xertica**, empresa com referência internacional no ramo de desenvolvimento de soluções inteligentes utilizando IAs. O desafio apresentado tinha como requisito o uso do **Google Agent Development Kit (ADK)** — um framework moderno voltado à criação de agentes de inteligência artificial. 
+
+A área de nutrição enfrenta um desafio recorrente: muitas pessoas têm dificuldade em compreender conceitos nutricionais, interpretar necessidades metabólicas e transformar essas informações em hábitos alimentares coerentes com seus objetivos. Além disso, profissionais e estudantes lidam com grande volume de dados — como cálculos de taxa metabólica, estimativas energéticas, composição de alimentos e anamnese — tornando o processo de orientação mais lento e sujeito a variações de interpretação. Essa combinação de informações complexas e dispersas dificulta oferecer recomendações precisas, consistentes e personalizadas, especialmente quando cada indivíduo possui perfis metabólicos e rotinas muito diferentes.
+
+A solução desenvolvida, denominada **NutriXpert**, teve como objetivo a criação de um **agente conversacional inteligente para nutrição**, capaz de oferecer orientações alimentares, cálculos metabólicos, planos personalizados com base em dados reais de composição nutricional e anamnese do usuário.
 
 O **NutriXpert** foi concebido como um sistema multiagente, no qual um **agente raiz (Root Agent)** coordena múltiplos **subagentes especializados** — cada um responsável por um domínio do conhecimento nutricional (como metabolismo, planejamento alimentar, educação nutricional e cálculo de macronutrientes).
 
@@ -38,6 +42,7 @@ Atuei principalmente na **engenharia dos agentes e na arquitetura de orquestraç
 * **Criação e modelagem da tabela TACO no PostgreSQL**, garantindo normalização e acesso eficiente às informações nutricionais de cada alimento;
 * **Definição e refinamento dos prompts de cada subagente**, assegurando coerência entre os papéis (ex: Agente_Nutricional, Agente_Metabólico, Agente_Planejamento e Agente_Educativo);
 * **Implementação do HITL (Human In The Loop)**, permitindo que o usuário avalie cada resposta do agent, gerando um feedback via ação humana, e contribundo no aprendizado de máquina para gerar novas respostas personalizadas.
+* **Implementação da Geração de Insights Automáticos**, permitindo ao usuário um feedback educativo e amigável acerca de como está sendo seu padrão de alimentação, sono, atividade fisica e demais pontos existentes na anamnese desenvolvida de forma personalizada de acordo com os requisitos do cliente. 
 
 ---
 
@@ -57,7 +62,15 @@ Atuei principalmente na **engenharia dos agentes e na arquitetura de orquestraç
 #### Soft Skills
 
 * **Autonomia Técnica**: Fui responsável por conectar os módulos do sistema e implementar soluções de RAG e banco de dados, garantindo a consistência da base de conhecimento do agente.
+
 * **Documentação e Clareza Técnica**: Mantive descrições completas sobre os prompts, fluxos de decisão e funções dos subagentes, facilitando a manutenção e o entendimento do time. Exemplo: criação de workflows e READMES.md bem descritivos. 
+
 * **Resolução de Problemas**: Enfrentei desafios relacionados ao balanceamento de contexto e otimização de memória dos modelos de linguagem, aplicando estratégias de chunking e compressão vetorial.
+
 * **Pesquisa Aplicada**: Investiguei técnicas modernas de RAG e ajuste de prompts baseadas em publicações recentes para maximizar a precisão das respostas geradas.
+
 * **Colaboração Multidisciplinar**: Trabalhei junto a colegas das áreas de IA e Front-end, garantindo integração segura entre backend spring boot e as interfaces de usuário (Vue.js).
+
+* **Adaptabilidade em Ambientes de Evolução Tecnológica**: Consegui me adaptar rapidamente a mudanças frequentes nas APIs, frameworks e bibliotecas de IA, revisando abordagens e incorporando novas ferramentas conforme surgiam, sem comprometer a estabilidade do sistema. Este foi um projeto bem diferentes dos anteriores APIs, isso porque o CRUD não foi o foco da solução desenvolvida.
+
+* **Organização Pessoal**: Utilizei pela primeira a ferramenta Jira, e foi de grande importância para organização de tempo, para entender o que os demais integrantes estavam realizando, quais tarefas já foram finalizadas, e quais ainda estavam pendentes.

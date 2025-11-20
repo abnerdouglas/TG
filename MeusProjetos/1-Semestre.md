@@ -41,12 +41,12 @@ Exercitei as seguintes hard skills durante esse projeto:
 ---
 
 #### Soft Skills
-- **Comunicação**: Atuei diretamente na comunicação com o cliente (professor Egydio) para esclarecer dúvidas, apresentar o andamento do projeto e validar funcionalidades. Essa habilidade foi essencial para garantir que o produto final atendesse às expectativas.
+- **Comunicação**: Mantive contato direto e frequente com o cliente (professor Egydio), traduzindo requisitos ambíguos em tarefas claras para a equipe, conduzindo reuniões produtivas e garantindo alinhamento contínuo entre expectativas e entregas.
 
-- **Trabalho em Equipe**: Colaborei ativamente com minha equipe no desenvolvimento de funcionalidades, incluindo a criação da navbar e a estruturação dos conteúdos para os audiobooks.
+- **Colaboração Técnica em Equipe**: Trabalhei de forma integrada com os desenvolvedores, participando ativamente das decisões de interface, padronização visual e implementação da navbar. Atuei como ponte entre diferentes visões para manter o produto coeso.
 
-- **Empatia**: Ao criar os audiobooks para o Spotify, busquei tornar o conteúdo mais acessível para pessoas com deficiência e também para aqueles que preferem consumir informações em formato de áudio.
+- **Empatia Aplicada à Acessibilidade**: Identifiquei necessidades de acessibilidade e converti todo o conteúdo do sistema em audiobooks, considerando públicos com deficiência visual e usuários que dependem de formatos alternativos de aprendizagem.
 
-- **Resolução de Problemas**: Durante o desenvolvimento, identifiquei e propus soluções para desafios relacionados à usabilidade do sistema e adaptação do conteúdo para formatos acessíveis.
+- **Resolução Prática de Problemas de Usabilidade**: Propus ajustes no fluxo e na organização do conteúdo após identificar barreiras à compreensão do Scrum pelos alunos, contribuindo para tornar a experiência mais intuitiva e eficiente.
 
-- **Gestão de Tempo**: Como Product Owner, gerenciei prazos e prioridades para assegurar que as entregas fossem realizadas dentro do cronograma estipulado.
+- **Gestão de Prioridades e Prazos (Visão de PO)**: Assumi a responsabilidade de organizar o backlog, priorizar funcionalidades com base no valor ao cliente e conduzir sprints de forma que a equipe mantivesse ritmo e entregasse incrementos dentro do prazo.

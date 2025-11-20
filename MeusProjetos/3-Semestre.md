@@ -1,8 +1,8 @@
 ### Terceiro Semestre (2024-1)
 
-O projeto desenvolvido no terceiro semestre do curso de ADS teve como empresa parceira a Pro4Tech. Os requisitos foram apresentados pelo Rafael, Product Owner da Pro4Tech, que assumiu o papel de cliente final.
+O projeto desenvolvido no terceiro semestre do curso de ADS teve como empresa parceira a Pro4Tech, empresa responsável pelo desenvolvimento de softwares por demanda. Os requisitos foram apresentados pelo Rafael, Product Owner da Pro4Tech, que assumiu o papel de cliente final.
 
-O problema apresentado consiste na falta de um sistema de relatórios/análises para gestores visualizarem as vendas de um determinado produto, ranqueamento dos melhores vendedores, e cálculo das comissões baseado em 4 tipos de vendas, com cada tipo de venda associado a um plano de remuneração específico.
+Os gestores enfrentam dificuldade para entender o desempenho comercial porque os dados de vendas estão dispersos e não seguem um padrão único, dificultando identificar quais produtos têm melhor saída, comparar resultados entre vendedores e calcular com precisão as comissões. Além disso, as regras de remuneração variam conforme o tipo de venda, o que torna o cálculo manual demorado e sujeito a erros.
 
 Como solução, minha equipe desenvolveu o Sales Dash, um sistema de dashboard que recebe dados de vendas e apresenta as informações de comissões de vendas dos vendedores. A principal maneira de adicionar informações é através do upload de uma planilha modelo fornecida pelo cliente. Foi implementado funcionalidades de filtragem e segmentação para os gráficos, permitindo aos usuários explorar os dados de comissões de vendas com mais detalhes, além de gráficos e visualizações de dados para análise de desempenho de vendas.
 
@@ -57,14 +57,17 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-- **Trabalho em equipe**: Colaborei ativamente com o **Dev Team**, contribuindo para o sucesso do projeto por meio de uma atuação alinhada e cooperativa.  
-- **Resolução de problemas**: Realizei pesquisas e identifiquei as melhores soluções para hospedagem gratuita, garantindo a integração eficiente entre backend e frontend.  
-- **Proatividade**: Tomei a iniciativa na configuração das hospedagens e na realização do deploy na nuvem, assegurando a disponibilidade do sistema para acesso externo.  
-- **Comunicação**: Mantive uma comunicação clara e objetiva com o cliente (Product Owner) e a equipe ao final de cada sprint, essencial para alinhar expectativas e requisitos, principalmente por ser o primeiro projeto da equipe com uma empresa externa.  
-- **Postura profissional**: Demonstrei boa comunicação visual e verbal durante as apresentações para o cliente, simulando uma entrega de software comercial com foco em clareza e profissionalismo.  
-- **Gestão de tempo**: Gerenciei as entregas com eficiência, cumprindo os prazos estabelecidos e garantindo a finalização do sistema a tempo para a apresentação na feira.  
-- **Atenção aos detalhes**: Fui criterioso na implementação da autenticação, segurança das rotas e responsividade das páginas, assegurando uma experiência consistente para o usuário.  
-- **Organização**: Utilizei o **Trello** para planejar e acompanhar o progresso das tarefas, promovendo uma gestão eficiente das demandas e garantindo a entrega de cada etapa do projeto.
+- **Colaboração Técnica Voltada à Segurança**: Trabalhei de forma integrada com o time para implementar e validar o fluxo completo de autenticação JWT, garantindo que o frontend consumisse corretamente as regras de acesso definidas pelo backend e mantendo discussões constantes sobre cenários de permissão e restrição de rotas.
+
+- **Resolução de Problemas em Integração Full Stack**: Diagnosei e solucionei inconsistências na comunicação entre backend hospedado no Render e frontend hospedado na Vercel — incluindo ajustes de CORS, tokens e variáveis de ambiente — até garantir uma integração estável para o acesso externo ao sistema.
+
+- **Proatividade na Pesquisa de Soluções de Hospedagem**: Diante das limitações impostas pelas plataformas gratuitas, conduzi uma análise comparativa entre serviços de deploy e selecionei combinações viáveis, reduzindo falhas de disponibilidade e garantindo que o Sales Dash estivesse acessível para apresentações e testes.
+
+- **Comunicação Clara**: Realizei alinhamentos constantes com o Product Owner de minha equipe, explicando decisões técnicas sobre autenticação, segurança e deploy de forma acessível, reforçando a confiança do cliente no andamento do projeto.
+
+- **Gestão de Tempo Orientada ao Ciclo de Sprints**: Organizei minhas tarefas priorizando o impacto direto nas entregas da sprint, garantindo que funcionalidades críticas — como login, proteção de rotas e setup de deploy — estivessem prontas para demonstrações ao cliente e para a feira de soluções.  
+
+- **Adaptabilidade a Mudanças de Requisitos (nova skill)**: Ajustei implementações conforme novos pedidos do Product Owner surgiam — especialmente em funcionalidades de gestão de usuários e regras de permissão — adaptando rapidamente o backlog e mantendo a consistência do código.
 
 ---
 
