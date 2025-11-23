@@ -74,3 +74,9 @@ Atuei principalmente na **engenharia dos agentes e na arquitetura de orquestraç
 * **Adaptabilidade em Ambientes de Evolução Tecnológica**: Consegui me adaptar rapidamente a mudanças frequentes nas APIs, frameworks e bibliotecas de IA, revisando abordagens e incorporando novas ferramentas conforme surgiam, sem comprometer a estabilidade do sistema. Este foi um projeto bem diferentes dos anteriores APIs, isso porque o CRUD não foi o foco da solução desenvolvida.
 
 * **Organização Pessoal**: Utilizei pela primeira a ferramenta Jira, e foi de grande importância para organização de tempo, para entender o que os demais integrantes estavam realizando, quais tarefas já foram finalizadas, e quais ainda estavam pendentes.
+
+---
+
+<div align="center">
+  <img src="./Imagens/banner-nutrixpert.png" alt="NutriXpert Banner" />
+</div> 
